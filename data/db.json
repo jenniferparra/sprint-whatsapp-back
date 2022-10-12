@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James",
+      "img": "https://www.vanguardia.com/binrepository/525x700/0c111/525d477/none/12204/HLUB/gal_colp_ext_0199_VL268035_MG22116683.jpg",
+      "info": "ta ta ta ta ta reto soy",
+      "phone": "3148975672",
+      "password": "1234",
+      "flag": false,
+      "lastconexion": "10/10/2022"    
+    },
+    {
+      "id": 2,
+      "name": "Falcao",
+      "img": "https://caracoltv.brightspotcdn.com/dims4/default/20552ff/2147483647/strip/true/crop/1312x967+0+0/resize/1000x737!/format/webp/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fgol%2Ffalcao_garcia_colombia_230420_cole.jpg",
+      "info": "me lesione la rodilla",
+      "password": "2345",
+      "phone": "3507615418",
+      "flag": false,
+      "lastconexion": "10/10/2022"
+    },
+    {
+      "id": 3,
+      "name": "luis diaz",
+      "img": "https://pbs.twimg.com/media/CicvSD1WgAAo07d?format=jpg&name=small",
+      "info": "donde están pobres",
+      "password": "3456",
+      "phone": "3012345678",
+      "flag": false
+    },
+    {
+      "id": 4,
+      "name": "Cuadrado",
+      "img": "https://www.laguiadelvaron.com/wp-content/uploads/2018/06/cuadrad.jpg",
+      "info": "solo hacemos paraditas",
+      "password": "4567",
+      "phone": "3001235645",
+      "flag": false
+    }
+  ],
+  "messages": [
+    {
+      "idUser1": 1,
+      "idUser2": 2,
+      "id": 1,
+      "conversation": [
+        {
+          "sendBy": 1,
+          "date": "10/10/2022",
+          "hour": "6:05pm",
+          "message": "oeee falcao",
+          "visto": true
+        },
+        {
+          "sendBy": 2,
+          "date": "10/10/2022",
+          "hour": "6:10pm",
+          "message": "decimelo tatareto",
+          "visto": true
+        },
+        {
+          "sendBy": 1,
+          "date": "10/10/2022",
+          "hour": "6:15pm",
+          "message": "como que tatareto ome, cómo estás? ",
+          "visto": true
+        },
+        {
+          "sendBy": 2,
+          "date": "10/10/2022",
+          "hour": "6:20pm",
+          "message": "bien y vos James??",
+          "visto": false
+        },
+        {
+          "sendBy": 1,
+          "date": "10/10/2022",
+          "hour": "6:25pm",
+          "message": "bien parce, quería pasar a saludar",
+          "visto": false
+        }
+      ]
+    },
+    {
+      "idUser1": 1,
+      "idUser2": 3,
+      "id": 2,
+      "conversation": [
+        {
+          "sendBy": 1,
+          "date": "30/8/2022",
+          "hour": "9:00pm",
+          "message": "Oeeeee Luis",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "30/8/2022",
+          "hour": "9:10pm",
+          "message": "Oeeee tataretooo",
+          "visto": true
+        },
+        {
+          "sendBy": 1,
+          "date": "30/8/2022",
+          "hour": "9:12pm",
+          "message": "como que tatareto ome, otro.... como estás?",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "30/8/2022",
+          "hour": "9:30pm",
+          "message": "bien James y vos ?",
+          "visto": false
+        }
+      ]
+    },
+    {
+      "idUser1": 1,
+      "idUser2": 4,
+      "id": 3,
+      "conversation": [
+        {
+          "sendBy": 1,
+          "date": "5/10/2022",
+          "hour": "8:00 am",
+          "message": "oeee Cuadrado",
+          "visto": true
+        },
+        {
+          "sendBy": 3,
+          "date": "5/10/2022",
+          "hour": "8:10 am",
+          "message": "panita hola",
+          "visto": true
+        },
+        {
+          "sendBy": 1,
+          "date": "5/10/2022",
+          "hour": "8:15 am",
+          "message": "como estás parce?",
+          "visto": true
+        },
+        {
+          "sendBy": 3,
+          "date": "5/10/2022",
+          "hour": "8:20 am",
+          "message": "bien James, que tal estuvo el partido?",
+          "visto": true
+        }
+      ]
+    },
+    {
+      "idUser1": 2,
+      "idUser2": 4,
+      "id": 4,
+      "conversation": [
+        {
+          "sendBy": 2,
+          "date": "09/10/2022",
+          "hour": "5:00pm",
+          "message": "holaaaaa",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "09/10/2022",
+          "hour": "5:15pm",
+          "message": "Falcao cómo estás?",
+          "visto": true
+        },
+        {
+          "sendBy": 2,
+          "date": "1/10/2022",
+          "hour": "5:20pm",
+          "message": "bien, ya estoy considerando mi retiro",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "09/10/2022",
+          "hour": "5:25pm",
+          "message": "no quiero que lo hagas...",
+          "visto": false
+        }
+      ]
+    }
+  ]
+}
