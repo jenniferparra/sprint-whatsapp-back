@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 1,
-      "name": "James",
-      "img": "https://www.vanguardia.com/binrepository/525x700/0c111/525d477/none/12204/HLUB/gal_colp_ext_0199_VL268035_MG22116683.jpg",
-      "info": "ta ta ta ta ta reto soy",
+      "name": "Sofía",
+      "img": "https://www.elcolombiano.com/binrepository/781x883/0c0/780d565/none/11101/DXYN/sofiavergaracumpleanos_40289988_20220711175259.jpg",
+      "info": "Living life to the fullest",
       "phone": "3148975672",
       "password": "1234",
       "flag": false,
@@ -12,9 +12,9 @@
     },
     {
       "id": 2,
-      "name": "Falcao",
-      "img": "https://caracoltv.brightspotcdn.com/dims4/default/20552ff/2147483647/strip/true/crop/1312x967+0+0/resize/1000x737!/format/webp/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fgol%2Ffalcao_garcia_colombia_230420_cole.jpg",
-      "info": "me lesione la rodilla",
+      "name": "Jessie",
+      "img": "https://lastfm.freetls.fastly.net/i/u/770x0/04352af2e968181163135486a3768515.jpg",
+      "info": "Yessie tour coming babyyy",
       "password": "2345",
       "phone": "3507615418",
       "flag": false,
@@ -22,18 +22,18 @@
     },
     {
       "id": 3,
-      "name": "luis diaz",
-      "img": "https://pbs.twimg.com/media/CicvSD1WgAAo07d?format=jpg&name=small",
-      "info": "donde están pobres",
+      "name": "Lauren",
+      "img": "https://i.pinimg.com/originals/f4/3c/a0/f43ca013e7d7fe485104ab3962c92443.jpg",
+      "info": "Gratitude is the only energy",
       "password": "3456",
       "phone": "3012345678",
       "flag": false
     },
     {
       "id": 4,
-      "name": "Cuadrado",
-      "img": "https://www.laguiadelvaron.com/wp-content/uploads/2018/06/cuadrad.jpg",
-      "info": "solo hacemos paraditas",
+      "name": "Keiynan",
+      "img": "https://lastfm.freetls.fastly.net/i/u/ar0/c044946bb973086a7ef13220231a4f97",
+      "info": "Spiritual boy",
       "password": "4567",
       "phone": "3001235645",
       "flag": false
@@ -49,70 +49,35 @@
           "sendBy": 1,
           "date": "10/10/2022",
           "hour": "6:05pm",
-          "message": "oeee falcao",
+          "message": "Hey Jessie",
           "visto": true
         },
         {
           "sendBy": 2,
           "date": "10/10/2022",
           "hour": "6:10pm",
-          "message": "decimelo tatareto",
+          "message": "Hi mama",
           "visto": true
         },
         {
           "sendBy": 1,
           "date": "10/10/2022",
           "hour": "6:15pm",
-          "message": "como que tatareto ome, cómo estás? ",
+          "message": "Vas a incluir Colombia en el tour?",
           "visto": true
         },
         {
           "sendBy": 2,
           "date": "10/10/2022",
           "hour": "6:20pm",
-          "message": "bien y vos James??",
+          "message": "Baby esa es la idea, pero todavía no hay fecha!",
           "visto": false
         },
         {
           "sendBy": 1,
           "date": "10/10/2022",
           "hour": "6:25pm",
-          "message": "bien parce, quería pasar a saludar",
-          "visto": false
-        }
-      ]
-    },
-    {
-      "idUser1": 1,
-      "idUser2": 3,
-      "id": 2,
-      "conversation": [
-        {
-          "sendBy": 1,
-          "date": "30/8/2022",
-          "hour": "9:00pm",
-          "message": "Oeeeee Luis",
-          "visto": true
-        },
-        {
-          "sendBy": 4,
-          "date": "30/8/2022",
-          "hour": "9:10pm",
-          "message": "Oeeee tataretooo",
-          "visto": true
-        },
-        {
-          "sendBy": 1,
-          "date": "30/8/2022",
-          "hour": "9:12pm",
-          "message": "como que tatareto ome, otro.... como estás?",
-          "visto": true
-        },
-        {
-          "sendBy": 4,
-          "date": "30/8/2022",
-          "hour": "9:30pm",
-          "message": "bien James y vos ?",
+          "message": "Bueno bella, me estás avisando",
           "visto": false
         }
       ]
@@ -120,34 +85,69 @@
     {
       "idUser1": 1,
       "idUser2": 4,
+      "id": 2,
+      "conversation": [
+        {
+          "sendBy": 1,
+          "date": "30/8/2022",
+          "hour": "9:00pm",
+          "message": "Baby boy, cómo estás?",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "30/8/2022",
+          "hour": "9:10pm",
+          "message": "Hey mamaa, muy muy bendecido, cómo vas tú?",
+          "visto": true
+        },
+        {
+          "sendBy": 1,
+          "date": "30/8/2022",
+          "hour": "9:12pm",
+          "message": "Bien bebé, quería avisarte que mañana te recogemos en el set",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "30/8/2022",
+          "hour": "9:30pm",
+          "message": "Listo mama, nos vemos",
+          "visto": false
+        }
+      ]
+    },
+    {
+      "idUser1": 1,
+      "idUser2": 3,
       "id": 3,
       "conversation": [
         {
           "sendBy": 1,
           "date": "5/10/2022",
           "hour": "8:00 am",
-          "message": "oeee Cuadrado",
+          "message": "Laureeeeen, cómo estás baby girl?",
           "visto": true
         },
         {
           "sendBy": 3,
           "date": "5/10/2022",
           "hour": "8:10 am",
-          "message": "panita hola",
+          "message": "Hola mamaa, regresando de vacaciones, muy agradecida, y tú?",
           "visto": true
         },
         {
           "sendBy": 1,
           "date": "5/10/2022",
           "hour": "8:15 am",
-          "message": "como estás parce?",
+          "message": "Muy bien, disfrutando la familia. Me estás contando cuándo te pasas por acá",
           "visto": true
         },
         {
           "sendBy": 3,
           "date": "5/10/2022",
           "hour": "8:20 am",
-          "message": "bien James, que tal estuvo el partido?",
+          "message": "Claro que sí, en estos días te confirmo",
           "visto": true
         }
       ]
@@ -161,28 +161,28 @@
           "sendBy": 2,
           "date": "09/10/2022",
           "hour": "5:00pm",
-          "message": "holaaaaa",
+          "message": "Keiynannnnn",
           "visto": true
         },
         {
           "sendBy": 4,
           "date": "09/10/2022",
           "hour": "5:15pm",
-          "message": "Falcao cómo estás?",
+          "message": "Hey Jessieeeee",
           "visto": true
         },
         {
           "sendBy": 2,
           "date": "1/10/2022",
           "hour": "5:20pm",
-          "message": "bien, ya estoy considerando mi retiro",
+          "message": "Vamos pal concierto o qué?",
           "visto": true
         },
         {
           "sendBy": 4,
           "date": "09/10/2022",
           "hour": "5:25pm",
-          "message": "no quiero que lo hagas...",
+          "message": "Ya mismooo, dime hora",
           "visto": false
         }
       ]
